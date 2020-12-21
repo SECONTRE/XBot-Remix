@@ -27,27 +27,24 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
     "╭━━━━━━━━━━━━━━━━━━━━━╮\n"
-    "    SELAMAT DATANG DI\n"
-    f"   `{DEFAULTUSER}` CHAT\n"
+    "    MAU NGEMIS SAMA\n"
+    f"   {DEFAULTUSER} MAAF GAK ADA UANG RECEH!!\n"
     "╰━━━━━━━━━━━━━━━━━━━━━╯\n\n"
 
-    f"Saya Bot Assisten `{DEFAULTUSER}`\n"
-    "╾─────────────────────╼\n\n"
+f"Saya Bot AntiSpam {DEFAULTUSER}\n"
+"╾─────────────────────╼\n\n"
 
-    "╭━━━━━━━━━━━━━━━━━━━━━╮\n"
-    " Mohon untuk tidak\n"
-    " melakukan spam chat\n"
-    " Atau Saya Akan Otomatis\n"
-    " Mereport & Block Kamu\n"
-    " Silahkan Tungguu Sampai\n"
-    f" `{DEFAULTUSER}` Menerima Pesanmu\n"
-    "╰━━━━━━━━━━━━━━━━━━━━━╯\n\n"
+"╭━━━━━━━━━━━━━━━━━━━━━╮\n"
+" Mohon untuk tidak\n"
+" melakukan spam chat\n"
+" Atau Saya Akan Otomatis\n"
+" Mereport & Block Kamu\n"
+" Silahkan Tungguu Sampai\n"
+f" {DEFAULTUSER} Menerima Pesanmu\n"
+"╰━━━━━━━━━━━━━━━━━━━━━╯\n\n"
 
-    "╾─────────────────────╼\n"
-    "   ♥️♥️TERIMAKASIH ❤️♥️\n"
-    "─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇─̇\n"
-    f"- ©Bot Assisten `{DEFAULTUSER}`\n"
-    "- Protected By 🔥XBOT-REMIX🔥")
+f"- © Powered by {DEFAULTUSER}\n"
+"- AntiSpam By @OlfO0 x @SECONTRE")
 # =================================================================
 
 
